@@ -1,0 +1,9 @@
+#red{color: red;}
+#blue{color: rgb(102, 102, 215);} 
+#orange{color: rgb(245, 160, 3);} 
+#green{color: green;} 
+#yellow{color: rgba(218, 222, 4, 0.977);} 
+h2[class]{font-weight: lighter;} 
+img{width: 200px; height: 200px;} 
+*{text-align: center;} 
+html{background-color: rgb(245, 219, 234);}
